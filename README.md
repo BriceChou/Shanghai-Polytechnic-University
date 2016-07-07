@@ -5,14 +5,22 @@
 * Chinese name :  上海第二工业大学.
 * “SSPU” is the abbreviation of “Shanghai Polytechnic University”.
 
-##  University official website
- * (CN) 上海第二工业大学 (http://www.sspu.edu.cn/)
- * (ENG) Shanghai Polytechnic University (http://en.sspu.edu.cn/)
+## University official website
+* (CN) 上海第二工业大学 (http://www.sspu.edu.cn/)
+* (ENG) Shanghai Polytechnic University (http://en.sspu.edu.cn/)
+
+## Contact information
+* Address:2360 Jin Hai Road,Pudong District,Shanghai,China
+* Zip Code:201209 
+* Tel:0086-21-50215021
+* Email:sspu_xz@sspu.edu.cn
 
 ## Summary (ENG)
   Shanghai Polytechnic University (Chinese: 上海第二工业大学) is a public university in Shanghai. It was founded in 1960.originally as “Shanghai Spare-time Polytechnic University” 
   
-Founded in 1960, SSPU is an institution of higher education featured by engineering as its main discipline, with synchronized development of multi-disciplines, including Economics, Management Science, Literature and Natural Sciences. The university provides education of undergraduates, higher vocational students, master, international students and students of adult and further education.. In 2010 SSPU was granted the qualification to enroll international students. In 2011 the university was approved by Academic Degree Committee of the State Council as the Engineering master's degree pilot work unit. In 2013， SSPU was listed in the institutions to administer "Shanghai Government Scholarships for International Students". The university offers 20 categories under 6 disciplines, with 33 undergraduate programs and 30 higher vocational programs. Its staff totals about 1,100. Currently about 17,000 students are registered at SSPU. Over the years, SSPU has established cooperative relationship with universities and institutions in the USA, the UK, Germany, France, Sweden, Finland, Australia, Japan, South Korea, Malaysia, Thailand, Indonesia, the Philippines, etc. and also with Hong Kong and Taiwan. Through channels such as international cooperation and bilateral exchanges, educational concepts at home and abroad and experience in education are introduced and integrated. Innovation and deepening of educational reform is promoted. Internationalization of education and educational level of the university are increased gradually. (Reference to:https://en.wikipedia.org/wiki/Shanghai_Second_Polytechnic_University)
+Founded in 1960, SSPU is an institution of higher education featured by engineering as its main discipline, with synchronized development of multi-disciplines, including Economics, Management Science, Literature and Natural Sciences. The university provides education of undergraduates, higher vocational students, master, international students and students of adult and further education.. In 2010 SSPU was granted the qualification to enroll international students. In 2011 the university was approved by Academic Degree Committee of the State Council as the Engineering master's degree pilot work unit. In 2013， SSPU was listed in the institutions to administer "Shanghai Government Scholarships for International Students". The university offers 20 categories under 6 disciplines, with 33 undergraduate programs and 30 higher vocational programs. Its staff totals about 1,100. Currently about 17,000 students are registered at SSPU. Over the years, SSPU has established cooperative relationship with universities and institutions in the USA, the UK, Germany, France, Sweden, Finland, Australia, Japan, South Korea, Malaysia, Thailand, Indonesia, the Philippines, etc. and also with Hong Kong and Taiwan. Through channels such as international cooperation and bilateral exchanges, educational concepts at home and abroad and experience in education are introduced and integrated. Innovation and deepening of educational reform is promoted. Internationalization of education and educational level of the university are increased gradually. 
+
+(Reference to:https://en.wikipedia.org/wiki/Shanghai_Second_Polytechnic_University)
 
 ## 学校介绍(CN)
 ### 综合简介(CN)
