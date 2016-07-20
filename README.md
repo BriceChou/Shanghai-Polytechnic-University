@@ -1,4 +1,4 @@
-# Shanghai-Polytechnic-University
+# [Shanghai-Polytechnic-University](http://www.sspu.edu.cn/)
 
 ![banner](https://github.com/BriceChou/Shanghai-Polytechnic-University/blob/master/Shanghai-Polytechnic-University.png)
 * English name :  Shanghai Polytechnic University. 
